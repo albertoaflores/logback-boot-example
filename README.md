@@ -2,11 +2,11 @@
 
 In this example, we test the following scenarios:
 
-* Test log captures with logback
-* Enable multiple logs in a Spring Boot application
-* Enable Logback filtering
-* Coloring
-* TurboFilters and profiling
+- [ ] Test log captures with logback
+- [x] Enable multiple logs in a Spring Boot application
+- [ ] Enable Logback filtering
+- [ ] Coloring
+- [ ] TurboFilters and profiling
 
 
 ## References:
