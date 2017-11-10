@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>io.cybertech.examples</groupId>
-	<artifactId>logbackExample</artifactId>
+	<artifactId>logback-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
@@ -22,6 +22,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
+        <dockerfile.googleContainerRegistryEnabled>false</dockerfile.googleContainerRegistryEnabled>
 	</properties>
 
 	<dependencies>
