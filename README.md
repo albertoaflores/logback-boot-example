@@ -15,8 +15,11 @@ In this example, we test the following scenarios:
 
 ## References:
 
+### Logback References
 * https://www.slf4j.org/extensions.html
 * https://logback.qos.ch/manual/filters.html
 * https://gist.github.com/geowarin/3685379c1ae5f100a02c
 
-
+### Spring Boot Docker References
+* https://spring.io/guides/gs/spring-boot-docker/
+* https://github.com/spotify/dockerfile-maven
